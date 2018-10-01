@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW2 Face Maker</string>
+    //implementing spinner array -> watched a video on youtube to do this
+    <string-array name= "hair">
+        <item>No hair</item>
+        <item>Short hair</item>
+        <item>Long hair</item>
+    </string-array>
+</resources>
